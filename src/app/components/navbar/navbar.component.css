@@ -3,14 +3,14 @@
     position: fixed;
     bottom: 0;
     width: 100%;
-    background-color: rgb(24, 32, 50);
+    background-color: var(--primary-color);
 }
 
 .navbar-tab {
     width: 100%;
     text-align: center;
     margin: 2%;
-    background-color: aliceblue;
+    background-color: var(--secondary-color);
 }
 
 .navbar-text {
