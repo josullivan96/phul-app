@@ -17,12 +17,15 @@
 
 .navbar-tab:first-child {
     border: 0;
+    
 }
 
 .navbar-text {
     display: inline-block;
+    color: var(--greyed-out-color);
+
 }
 
-.selected {
+.navbar-tab.active {
     color: var(--primary-color)
 }
