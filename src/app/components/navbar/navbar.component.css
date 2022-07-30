@@ -10,7 +10,7 @@
 .navbar-tab {
     width: 100%;
     text-align: center;
-    margin: 2% 0;
+    margin: 2% 0 5% 0;
     border-left: 1px solid var(--primary-color);
     color: var(--greyed-out-color);
 }
