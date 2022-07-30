@@ -1,6 +1,9 @@
 :root {
     --primary-color: rgb(24, 32, 50);
     --secondary-color: rgb(217, 237, 255);
+    --tertiary-color: #DF9FEA;
+    --greyed-out-color: #686868;
+
 }
 
 html {
